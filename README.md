@@ -11,3 +11,6 @@
 [Запись с занятия](https://youtu.be/iNY6EnWRSRs)
 
 Демонстрация работы:
+
+![demo](https://gitlab.com/ISU-Applied-Computer-Science/5th-semester/mobile-development/Creating-classes-with-the-transforming-interface/-/raw/master/raw/demo_1.png?inline=false)
+
